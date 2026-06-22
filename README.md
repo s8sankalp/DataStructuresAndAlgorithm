@@ -34,3 +34,23 @@ To compile and run any of the solutions, you need to have the Java Development K
 
 ## Prerequisites
 - [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/downloads/) 8 or higher.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0316-remove-duplicate-letters/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0316-remove-duplicate-letters/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0316-remove-duplicate-letters/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0316-remove-duplicate-letters/) | Medium |
+<!---LeetCode Topics End-->
