@@ -63,6 +63,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0171-excel-sheet-column-number](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0263-ugly-number](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0263-ugly-number/) | Easy |
 | [0313-super-ugly-number](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0313-super-ugly-number/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
