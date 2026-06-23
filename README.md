@@ -40,6 +40,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0171-excel-sheet-column-number](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0316-remove-duplicate-letters/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -60,6 +61,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0171-excel-sheet-column-number](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0313-super-ugly-number](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0313-super-ugly-number/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
