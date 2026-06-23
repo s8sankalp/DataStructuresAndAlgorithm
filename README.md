@@ -58,6 +58,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0313-super-ugly-number](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0313-super-ugly-number/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -73,6 +74,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0303-range-sum-query-immutable/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,4 +83,8 @@ To compile and run any of the solutions, you need to have the Java Development K
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0278-first-bad-version/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
