@@ -73,4 +73,12 @@ To compile and run any of the solutions, you need to have the Java Development K
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0238-product-of-array-except-self/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0278-first-bad-version/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
