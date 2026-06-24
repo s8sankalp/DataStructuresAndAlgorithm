@@ -72,6 +72,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | ------- | ------- |
 | [0171-excel-sheet-column-number](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0263-ugly-number](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0263-ugly-number/) | Easy |
+| [0292-nim-game](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0292-nim-game/) | Easy |
 | [0313-super-ugly-number](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0313-super-ugly-number/) | Medium |
 | [0319-bulb-switcher](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0319-bulb-switcher/) | Medium |
 | [0326-power-of-three](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0326-power-of-three/) | Easy |
@@ -161,6 +162,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0292-nim-game/) | Easy |
 | [0319-bulb-switcher](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0319-bulb-switcher/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -170,4 +172,8 @@ To compile and run any of the solutions, you need to have the Java Development K
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
