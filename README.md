@@ -41,6 +41,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0171-excel-sheet-column-number](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0187-repeated-dna-sequences](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 ## Stack
@@ -116,4 +117,24 @@ To compile and run any of the solutions, you need to have the Java Development K
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0187-repeated-dna-sequences/) | Medium |
 <!---LeetCode Topics End-->
