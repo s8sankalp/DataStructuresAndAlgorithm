@@ -42,6 +42,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | ------- | ------- |
 | [0171-excel-sheet-column-number](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0187-repeated-dna-sequences](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0299-bulls-and-cows](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0299-bulls-and-cows/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 ## Stack
@@ -126,6 +127,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0299-bulls-and-cows](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0299-bulls-and-cows/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,4 +154,8 @@ To compile and run any of the solutions, you need to have the Java Development K
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0319-bulb-switcher](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0319-bulb-switcher/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0299-bulls-and-cows](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0299-bulls-and-cows/) | Medium |
 <!---LeetCode Topics End-->
