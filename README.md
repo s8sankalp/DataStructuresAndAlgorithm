@@ -42,6 +42,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | ------- | ------- |
 | [0171-excel-sheet-column-number](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0187-repeated-dna-sequences](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0273-integer-to-english-words](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0273-integer-to-english-words/) | Hard |
 | [0290-word-pattern](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0290-word-pattern/) | Easy |
 | [0299-bulls-and-cows](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0299-bulls-and-cows/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0316-remove-duplicate-letters/) | Medium |
@@ -72,6 +73,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | ------- | ------- |
 | [0171-excel-sheet-column-number](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0263-ugly-number](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0263-ugly-number/) | Easy |
+| [0273-integer-to-english-words](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0273-integer-to-english-words/) | Hard |
 | [0292-nim-game](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0292-nim-game/) | Easy |
 | [0313-super-ugly-number](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0313-super-ugly-number/) | Medium |
 | [0319-bulb-switcher](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0319-bulb-switcher/) | Medium |
@@ -159,6 +161,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0273-integer-to-english-words](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0273-integer-to-english-words/) | Hard |
 | [0326-power-of-three](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0342-power-of-four/) | Easy |
 ## Brainteaser
