@@ -70,6 +70,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0171-excel-sheet-column-number](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0263-ugly-number](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0263-ugly-number/) | Easy |
 | [0313-super-ugly-number](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0313-super-ugly-number/) | Medium |
+| [0342-power-of-four](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0342-power-of-four/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -129,6 +130,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0342-power-of-four](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0342-power-of-four/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,4 +143,8 @@ To compile and run any of the solutions, you need to have the Java Development K
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0342-power-of-four](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0342-power-of-four/) | Easy |
 <!---LeetCode Topics End-->
