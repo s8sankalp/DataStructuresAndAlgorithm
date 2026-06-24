@@ -66,6 +66,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0303-range-sum-query-immutable](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0313-super-ugly-number](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0313-super-ugly-number/) | Medium |
 | [0327-count-of-range-sum](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0327-count-of-range-sum/) | Hard |
+| [0349-intersection-of-two-arrays](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +93,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0278-first-bad-version](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0327-count-of-range-sum](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0327-count-of-range-sum/) | Hard |
+| [0349-intersection-of-two-arrays](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,12 +127,14 @@ To compile and run any of the solutions, you need to have the Java Development K
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0290-word-pattern](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0290-word-pattern/) | Easy |
 | [0299-bulls-and-cows](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0299-bulls-and-cows/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,4 +166,8 @@ To compile and run any of the solutions, you need to have the Java Development K
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0299-bulls-and-cows](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0299-bulls-and-cows/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0349-intersection-of-two-arrays/) | Easy |
 <!---LeetCode Topics End-->
