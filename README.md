@@ -60,6 +60,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0313-super-ugly-number](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0313-super-ugly-number/) | Medium |
 | [0327-count-of-range-sum](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0327-count-of-range-sum/) | Hard |
@@ -84,6 +85,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0278-first-bad-version/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0327-count-of-range-sum](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0327-count-of-range-sum/) | Hard |
 ## Interactive
 | Problem Name | Difficulty |
@@ -116,6 +118,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -125,6 +128,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
