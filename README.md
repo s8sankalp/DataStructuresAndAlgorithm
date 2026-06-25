@@ -56,6 +56,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0397-integer-replacement](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0397-integer-replacement/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +89,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | ------- | ------- |
 | [0313-super-ugly-number](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0313-super-ugly-number/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
+| [0397-integer-replacement](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0397-integer-replacement/) | Medium |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -154,6 +156,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0187-repeated-dna-sequences](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0342-power-of-four/) | Easy |
+| [0397-integer-replacement](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0397-integer-replacement/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -195,4 +198,8 @@ To compile and run any of the solutions, you need to have the Java Development K
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0397-integer-replacement](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0397-integer-replacement/) | Medium |
 <!---LeetCode Topics End-->
