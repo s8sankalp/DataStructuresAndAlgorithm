@@ -83,6 +83,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0326-power-of-three](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0342-power-of-four/) | Easy |
 | [0357-count-numbers-with-unique-digits](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
+| [0372-super-pow](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0372-super-pow/) | Medium |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -116,6 +117,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0327-count-of-range-sum](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0327-count-of-range-sum/) | Hard |
+| [0372-super-pow](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0372-super-pow/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
