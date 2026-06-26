@@ -50,6 +50,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0383-ransom-note](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0394-decode-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0394-decode-string/) | Medium |
+| [0420-strong-password-checker](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0420-strong-password-checker/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,6 +61,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0397-integer-replacement](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0397-integer-replacement/) | Medium |
+| [0420-strong-password-checker](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0420-strong-password-checker/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -243,4 +245,8 @@ To compile and run any of the solutions, you need to have the Java Development K
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0398-random-pick-index](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0398-random-pick-index/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0420-strong-password-checker](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0420-strong-password-checker/) | Hard |
 <!---LeetCode Topics End-->
