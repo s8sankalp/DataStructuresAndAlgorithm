@@ -71,6 +71,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0313-super-ugly-number](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0313-super-ugly-number/) | Medium |
 | [0327-count-of-range-sum](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0327-count-of-range-sum/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0447-number-of-boomerangs](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0447-number-of-boomerangs/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -87,6 +88,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0365-water-and-jug-problem](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0372-super-pow](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0372-super-pow/) | Medium |
 | [0398-random-pick-index](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0398-random-pick-index/) | Medium |
+| [0447-number-of-boomerangs](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0447-number-of-boomerangs/) | Medium |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -156,6 +158,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0383-ransom-note](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0398-random-pick-index](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0398-random-pick-index/) | Medium |
+| [0447-number-of-boomerangs](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0447-number-of-boomerangs/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
