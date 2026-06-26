@@ -86,6 +86,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0357-count-numbers-with-unique-digits](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0372-super-pow](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0372-super-pow/) | Medium |
+| [0398-random-pick-index](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0398-random-pick-index/) | Medium |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -154,6 +155,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0349-intersection-of-two-arrays](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0398-random-pick-index](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0398-random-pick-index/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -220,4 +222,12 @@ To compile and run any of the solutions, you need to have the Java Development K
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0365-water-and-jug-problem](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0365-water-and-jug-problem/) | Medium |
+## Reservoir Sampling
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0398-random-pick-index](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0398-random-pick-index/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0398-random-pick-index](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0398-random-pick-index/) | Medium |
 <!---LeetCode Topics End-->
