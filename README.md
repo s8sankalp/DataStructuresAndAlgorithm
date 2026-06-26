@@ -71,6 +71,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0313-super-ugly-number](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0313-super-ugly-number/) | Medium |
 | [0327-count-of-range-sum](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0327-count-of-range-sum/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0406-queue-reconstruction-by-height](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0447-number-of-boomerangs](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0447-number-of-boomerangs/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Math
@@ -128,10 +129,12 @@ To compile and run any of the solutions, you need to have the Java Development K
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0327-count-of-range-sum](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0327-count-of-range-sum/) | Hard |
+| [0406-queue-reconstruction-by-height](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0327-count-of-range-sum](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0327-count-of-range-sum/) | Hard |
+| [0406-queue-reconstruction-by-height](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -201,6 +204,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0406-queue-reconstruction-by-height](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
