@@ -79,6 +79,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0417-pacific-atlantic-water-flow](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0447-number-of-boomerangs](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0447-number-of-boomerangs/) | Medium |
 | [0457-circular-array-loop](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0457-circular-array-loop/) | Medium |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Math
@@ -175,6 +176,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0398-random-pick-index](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0398-random-pick-index/) | Medium |
 | [0447-number-of-boomerangs](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0447-number-of-boomerangs/) | Medium |
 | [0457-circular-array-loop](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0457-circular-array-loop/) | Medium |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Bit Manipulation
@@ -262,4 +264,8 @@ To compile and run any of the solutions, you need to have the Java Development K
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 <!---LeetCode Topics End-->
