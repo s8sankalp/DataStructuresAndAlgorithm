@@ -53,6 +53,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0394-decode-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0394-decode-string/) | Medium |
 | [0420-strong-password-checker](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0420-strong-password-checker/) | Hard |
 | [0423-reconstruct-original-digits-from-english](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0423-reconstruct-original-digits-from-english/) | Medium |
+| [0443-string-compression](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0443-string-compression/) | Medium |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0467-unique-substrings-in-wraparound-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -181,6 +182,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0345-reverse-vowels-of-a-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0392-is-subsequence/) | Easy |
+| [0443-string-compression](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0443-string-compression/) | Medium |
 | [0457-circular-array-loop](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0457-circular-array-loop/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
