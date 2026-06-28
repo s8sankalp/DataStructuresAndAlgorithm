@@ -82,6 +82,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0349-intersection-of-two-arrays](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0406-queue-reconstruction-by-height](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0419-battleships-in-a-board](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0436-find-right-interval](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0436-find-right-interval/) | Medium |
 | [0447-number-of-boomerangs](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0447-number-of-boomerangs/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
@@ -265,6 +266,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | ------- | ------- |
 | [0365-water-and-jug-problem](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0419-battleships-in-a-board](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0419-battleships-in-a-board/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -286,6 +288,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0419-battleships-in-a-board](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0419-battleships-in-a-board/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
