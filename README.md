@@ -62,6 +62,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0316-remove-duplicate-letters](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0397-integer-replacement](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0397-integer-replacement/) | Medium |
 | [0420-strong-password-checker](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0420-strong-password-checker/) | Hard |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +80,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0417-pacific-atlantic-water-flow](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0447-number-of-boomerangs](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0447-number-of-boomerangs/) | Medium |
 | [0457-circular-array-loop](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0457-circular-array-loop/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -222,6 +224,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0406-queue-reconstruction-by-height](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0406-queue-reconstruction-by-height/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
