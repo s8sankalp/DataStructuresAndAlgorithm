@@ -119,6 +119,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0342-power-of-four](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0342-power-of-four/) | Easy |
 | [0357-count-numbers-with-unique-digits](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0365-water-and-jug-problem/) | Medium |
+| [0371-sum-of-two-integers](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0372-super-pow](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0372-super-pow/) | Medium |
 | [0398-random-pick-index](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0398-random-pick-index/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
@@ -227,6 +228,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0187-repeated-dna-sequences](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0342-power-of-four/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0397-integer-replacement](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0397-integer-replacement/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0473-matchsticks-to-square](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0473-matchsticks-to-square/) | Medium |
