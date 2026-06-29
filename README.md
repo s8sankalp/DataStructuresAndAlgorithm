@@ -100,6 +100,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0473-matchsticks-to-square](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0474-ones-and-zeroes/) | Medium |
+| [0495-teemo-attacking](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0495-teemo-attacking/) | Easy |
 | [0500-keyboard-row](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0500-keyboard-row/) | Easy |
 | [0526-beautiful-arrangement](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0526-beautiful-arrangement/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -345,4 +346,8 @@ To compile and run any of the solutions, you need to have the Java Development K
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0495-teemo-attacking](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0495-teemo-attacking/) | Easy |
 <!---LeetCode Topics End-->
