@@ -58,6 +58,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0443-string-compression](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0443-string-compression/) | Medium |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0467-unique-substrings-in-wraparound-string/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0474-ones-and-zeroes/) | Medium |
+| [0481-magical-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0481-magical-string/) | Medium |
 | [0500-keyboard-row](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0500-keyboard-row/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 ## Stack
@@ -204,6 +205,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0392-is-subsequence](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0443-string-compression/) | Medium |
 | [0457-circular-array-loop](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0457-circular-array-loop/) | Medium |
+| [0481-magical-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0481-magical-string/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
