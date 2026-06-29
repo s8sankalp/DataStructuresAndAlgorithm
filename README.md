@@ -299,12 +299,14 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0365-water-and-jug-problem](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0365-water-and-jug-problem](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0433-minimum-genetic-mutation/) | Medium |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 ## Reservoir Sampling
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -335,4 +337,12 @@ To compile and run any of the solutions, you need to have the Java Development K
 | ------- | ------- |
 | [0473-matchsticks-to-square](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0526-beautiful-arrangement/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 <!---LeetCode Topics End-->
