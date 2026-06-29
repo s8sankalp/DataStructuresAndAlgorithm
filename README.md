@@ -53,6 +53,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0394-decode-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0394-decode-string/) | Medium |
 | [0420-strong-password-checker](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0420-strong-password-checker/) | Hard |
 | [0423-reconstruct-original-digits-from-english](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0423-reconstruct-original-digits-from-english/) | Medium |
+| [0433-minimum-genetic-mutation](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0443-string-compression](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0443-string-compression/) | Medium |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0467-unique-substrings-in-wraparound-string/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -202,6 +203,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0387-first-unique-character-in-a-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0398-random-pick-index](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0398-random-pick-index/) | Medium |
 | [0423-reconstruct-original-digits-from-english](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0423-reconstruct-original-digits-from-english/) | Medium |
+| [0433-minimum-genetic-mutation](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0447-number-of-boomerangs](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0447-number-of-boomerangs/) | Medium |
 | [0457-circular-array-loop](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0457-circular-array-loop/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -281,6 +283,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | ------- | ------- |
 | [0365-water-and-jug-problem](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0433-minimum-genetic-mutation](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0433-minimum-genetic-mutation/) | Medium |
 ## Reservoir Sampling
 | Problem Name | Difficulty |
 | ------- | ------- |
