@@ -103,6 +103,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0473-matchsticks-to-square](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0474-ones-and-zeroes/) | Medium |
+| [0477-total-hamming-distance](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0477-total-hamming-distance/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0495-teemo-attacking](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0495-teemo-attacking/) | Easy |
 | [0500-keyboard-row](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0500-keyboard-row/) | Easy |
@@ -134,6 +135,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0447-number-of-boomerangs](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0447-number-of-boomerangs/) | Medium |
 | [0458-poor-pigs](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0458-poor-pigs/) | Hard |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0477-total-hamming-distance](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0477-total-hamming-distance/) | Medium |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -242,6 +244,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0397-integer-replacement](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0397-integer-replacement/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0473-matchsticks-to-square](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0473-matchsticks-to-square/) | Medium |
+| [0477-total-hamming-distance](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0477-total-hamming-distance/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0526-beautiful-arrangement/) | Medium |
 ## Sliding Window
