@@ -101,6 +101,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0456-132-pattern](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0456-132-pattern/) | Medium |
 | [0457-circular-array-loop](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0457-circular-array-loop/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0463-island-perimeter](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0463-island-perimeter/) | Easy |
 | [0473-matchsticks-to-square](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0477-total-hamming-distance](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0477-total-hamming-distance/) | Medium |
@@ -313,6 +314,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0365-water-and-jug-problem](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0463-island-perimeter](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0463-island-perimeter/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -321,6 +323,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0407-trapping-rain-water-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0407-trapping-rain-water-ii/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0433-minimum-genetic-mutation/) | Medium |
+| [0463-island-perimeter](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0463-island-perimeter/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 ## Reservoir Sampling
 | Problem Name | Difficulty |
@@ -341,6 +344,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0407-trapping-rain-water-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0407-trapping-rain-water-ii/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0463-island-perimeter](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0463-island-perimeter/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
