@@ -13,7 +13,7 @@ class Solution {
             int h=arr[2];
             if(h<1)
             {
-                break;
+               continue;
             }
             if(r==n-1&&c==m-1&&h>=1){
                 return true;
