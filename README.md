@@ -113,6 +113,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Math
@@ -328,6 +329,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0463-island-perimeter](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0463-island-perimeter/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Reservoir Sampling
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -342,6 +344,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0407-trapping-rain-water-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0407-trapping-rain-water-ii/) | Hard |
 | [0420-strong-password-checker](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0420-strong-password-checker/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -350,6 +353,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0419-battleships-in-a-board](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0463-island-perimeter](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0463-island-perimeter/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -383,4 +387,12 @@ To compile and run any of the solutions, you need to have the Java Development K
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 <!---LeetCode Topics End-->
