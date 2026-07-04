@@ -322,6 +322,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0419-battleships-in-a-board](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0463-island-perimeter](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0463-island-perimeter/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -331,6 +332,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0433-minimum-genetic-mutation](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0463-island-perimeter](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0463-island-perimeter/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Reservoir Sampling
@@ -390,10 +392,12 @@ To compile and run any of the solutions, you need to have the Java Development K
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
