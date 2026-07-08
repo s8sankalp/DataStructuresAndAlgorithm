@@ -143,6 +143,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0477-total-hamming-distance](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0477-total-hamming-distance/) | Medium |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
