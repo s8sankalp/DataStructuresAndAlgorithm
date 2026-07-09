@@ -117,6 +117,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [2812-find-the-safest-path-in-a-grid](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -179,6 +180,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0436-find-right-interval](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0436-find-right-interval/) | Medium |
 | [0456-132-pattern](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0456-132-pattern/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Interactive
 | Problem Name | Difficulty |
@@ -246,6 +248,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0500-keyboard-row](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0500-keyboard-row/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Bit Manipulation
@@ -403,11 +406,13 @@ To compile and run any of the solutions, you need to have the Java Development K
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
