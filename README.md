@@ -78,6 +78,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0420-strong-password-checker](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0420-strong-password-checker/) | Hard |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,6 +119,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -160,6 +162,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0474-ones-and-zeroes](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0526-beautiful-arrangement/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 ## Prefix Sum
@@ -181,6 +184,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0456-132-pattern](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0456-132-pattern/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Interactive
 | Problem Name | Difficulty |
@@ -230,6 +234,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0443-string-compression](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0443-string-compression/) | Medium |
 | [0457-circular-array-loop](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0457-circular-array-loop/) | Medium |
 | [0481-magical-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0481-magical-string/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -264,6 +269,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0477-total-hamming-distance](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0477-total-hamming-distance/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0526-beautiful-arrangement/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -306,6 +312,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -413,6 +420,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
