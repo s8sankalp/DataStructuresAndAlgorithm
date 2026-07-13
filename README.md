@@ -387,6 +387,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1291-sequential-digits/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
