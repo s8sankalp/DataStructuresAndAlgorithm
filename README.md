@@ -93,6 +93,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0303-range-sum-query-immutable](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0313-super-ugly-number](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0313-super-ugly-number/) | Medium |
 | [0327-count-of-range-sum](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0327-count-of-range-sum/) | Hard |
+| [0335-self-crossing](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0335-self-crossing/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0406-queue-reconstruction-by-height](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0407-trapping-rain-water-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0407-trapping-rain-water-ii/) | Hard |
@@ -136,6 +137,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0313-super-ugly-number](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0313-super-ugly-number/) | Medium |
 | [0319-bulb-switcher](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0319-bulb-switcher/) | Medium |
 | [0326-power-of-three](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0326-power-of-three/) | Easy |
+| [0335-self-crossing](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0335-self-crossing/) | Hard |
 | [0342-power-of-four](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0342-power-of-four/) | Easy |
 | [0357-count-numbers-with-unique-digits](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0365-water-and-jug-problem/) | Medium |
@@ -452,4 +454,8 @@ To compile and run any of the solutions, you need to have the Java Development K
 | ------- | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0335-self-crossing](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0335-self-crossing/) | Hard |
 <!---LeetCode Topics End-->
