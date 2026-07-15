@@ -55,6 +55,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0420-strong-password-checker](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0420-strong-password-checker/) | Hard |
 | [0423-reconstruct-original-digits-from-english](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0423-reconstruct-original-digits-from-english/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0433-minimum-genetic-mutation/) | Medium |
+| [0434-number-of-segments-in-a-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0443-string-compression](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0443-string-compression/) | Medium |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0467-unique-substrings-in-wraparound-string/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0474-ones-and-zeroes/) | Medium |
