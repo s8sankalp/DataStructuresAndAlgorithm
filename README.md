@@ -114,6 +114,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0495-teemo-attacking](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0495-teemo-attacking/) | Easy |
 | [0500-keyboard-row](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0500-keyboard-row/) | Easy |
 | [0526-beautiful-arrangement](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0526-beautiful-arrangement/) | Medium |
+| [0554-brick-wall](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0554-brick-wall/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -265,6 +266,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0457-circular-array-loop](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0457-circular-array-loop/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0500-keyboard-row](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0500-keyboard-row/) | Easy |
+| [0554-brick-wall](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0554-brick-wall/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
