@@ -370,6 +370,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0365-water-and-jug-problem](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0437-path-sum-iii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0437-path-sum-iii/) | Medium |
 | [0463-island-perimeter](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0463-island-perimeter/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -432,10 +433,12 @@ To compile and run any of the solutions, you need to have the Java Development K
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0437-path-sum-iii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0437-path-sum-iii/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0437-path-sum-iii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0437-path-sum-iii/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
