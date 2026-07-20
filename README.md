@@ -373,6 +373,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0437-path-sum-iii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0437-path-sum-iii/) | Medium |
 | [0463-island-perimeter](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0463-island-perimeter/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0563-binary-tree-tilt](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0563-binary-tree-tilt/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Breadth-First Search
@@ -435,11 +436,13 @@ To compile and run any of the solutions, you need to have the Java Development K
 | ------- | ------- |
 | [0437-path-sum-iii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0437-path-sum-iii/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0563-binary-tree-tilt](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0563-binary-tree-tilt/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0437-path-sum-iii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0437-path-sum-iii/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0563-binary-tree-tilt](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0563-binary-tree-tilt/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
