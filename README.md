@@ -122,6 +122,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0529-minesweeper](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0529-minesweeper/) | Medium |
 | [0554-brick-wall](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0554-brick-wall/) | Medium |
 | [0561-array-partition](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0561-array-partition/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1260-shift-2d-grid](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -170,6 +171,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0477-total-hamming-distance](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0477-total-hamming-distance/) | Medium |
 | [0507-perfect-number](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0507-perfect-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -357,6 +359,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0561-array-partition](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0561-array-partition/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
