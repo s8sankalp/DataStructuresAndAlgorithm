@@ -65,6 +65,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0514-freedom-trail](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0514-freedom-trail/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -86,6 +87,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0561-array-partition](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0561-array-partition/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -176,6 +178,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0507-perfect-number](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0507-perfect-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
