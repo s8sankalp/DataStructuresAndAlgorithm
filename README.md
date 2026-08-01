@@ -121,6 +121,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0473-matchsticks-to-square](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0477-total-hamming-distance](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0477-total-hamming-distance/) | Medium |
+| [0486-predict-the-winner](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0486-predict-the-winner/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0495-teemo-attacking](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0495-teemo-attacking/) | Easy |
 | [0500-keyboard-row](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0500-keyboard-row/) | Easy |
@@ -177,6 +178,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0458-poor-pigs](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0458-poor-pigs/) | Hard |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0477-total-hamming-distance](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0477-total-hamming-distance/) | Medium |
+| [0486-predict-the-winner](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0486-predict-the-winner/) | Medium |
 | [0507-perfect-number](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0507-perfect-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -204,6 +206,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0467-unique-substrings-in-wraparound-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0467-unique-substrings-in-wraparound-string/) | Medium |
 | [0473-matchsticks-to-square](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0474-ones-and-zeroes/) | Medium |
+| [0486-predict-the-winner](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0486-predict-the-winner/) | Medium |
 | [0514-freedom-trail](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0514-freedom-trail/) | Hard |
 | [0526-beautiful-arrangement](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0526-beautiful-arrangement/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -348,6 +351,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0326-power-of-three](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0342-power-of-four/) | Easy |
 | [0394-decode-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0394-decode-string/) | Medium |
+| [0486-predict-the-winner](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0486-predict-the-winner/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -387,6 +391,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | ------- | ------- |
 | [0292-nim-game](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0292-nim-game/) | Easy |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
+| [0486-predict-the-winner](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0486-predict-the-winner/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
