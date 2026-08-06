@@ -424,6 +424,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0419-battleships-in-a-board](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0437-path-sum-iii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0437-path-sum-iii/) | Medium |
 | [0463-island-perimeter](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0463-island-perimeter/) | Easy |
+| [0501-find-mode-in-binary-search-tree](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0514-freedom-trail](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0514-freedom-trail/) | Hard |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0529-minesweeper](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0529-minesweeper/) | Medium |
@@ -499,12 +500,14 @@ To compile and run any of the solutions, you need to have the Java Development K
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0437-path-sum-iii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0437-path-sum-iii/) | Medium |
+| [0501-find-mode-in-binary-search-tree](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0563-binary-tree-tilt](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0563-binary-tree-tilt/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0437-path-sum-iii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0437-path-sum-iii/) | Medium |
+| [0501-find-mode-in-binary-search-tree](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0563-binary-tree-tilt](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0563-binary-tree-tilt/) | Easy |
 ## Simulation
@@ -568,4 +571,8 @@ To compile and run any of the solutions, you need to have the Java Development K
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1406-stone-game-iii/) | Hard |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
