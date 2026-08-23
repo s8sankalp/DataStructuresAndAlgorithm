@@ -64,6 +64,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0500-keyboard-row](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0500-keyboard-row/) | Easy |
 | [0514-freedom-trail](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0514-freedom-trail/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1927-sum-game](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -91,6 +92,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0561-array-partition](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0561-array-partition/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1927-sum-game](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -196,6 +198,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0628-maximum-product-of-three-numbers](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1406-stone-game-iii/) | Hard |
+| [1927-sum-game](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -425,6 +428,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0486-predict-the-winner](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1406-stone-game-iii/) | Hard |
+| [1927-sum-game](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2029-stone-game-ix/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
