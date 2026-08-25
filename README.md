@@ -164,6 +164,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -341,6 +342,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [3312-sorted-gcd-pair-queries](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Bit Manipulation
