@@ -1,19 +1,24 @@
 class Solution {
 
     public boolean uniformArray(int[] nums1) {
-        int mn = nums1[0];
-        boolean hasOdd = false;
-        for (int v : nums1) {
-            if (v < mn) {
-                mn = v;
-            }
-            if ((v & 1) == 1) {
-                hasOdd = true;
-            }
+         int min = Integer.MAX_VALUE;
+
+        for (int x : nums1) {
+            min = Math.min(min, x);
         }
-        if ((mn & 1) == 1) {
+
+        
+        if (min % 2 == 1) {
             return true;
         }
-        return !hasOdd;
+
+        
+        for (int x : nums1) {
+            if (x % 2 == 1) {
+                return false;
+            }
+        }
+
+        return true;
     }
 }
