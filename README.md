@@ -227,6 +227,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3870-count-commas-in-range](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Dynamic Programming
