@@ -484,6 +484,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0515-find-largest-value-in-each-tree-row](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0529-minesweeper](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0529-minesweeper/) | Medium |
 | [0563-binary-tree-tilt](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0563-binary-tree-tilt/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -561,6 +562,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0501-find-mode-in-binary-search-tree](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0563-binary-tree-tilt](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0563-binary-tree-tilt/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -568,6 +570,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0501-find-mode-in-binary-search-tree](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0563-binary-tree-tilt](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0563-binary-tree-tilt/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
