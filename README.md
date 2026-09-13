@@ -163,6 +163,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -252,6 +253,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [1301-number-of-paths-with-max-score](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1406-stone-game-iii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1406-stone-game-iii/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -277,6 +279,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0456-132-pattern](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0456-132-pattern/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -445,6 +448,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3536-maximum-product-of-two-digits/) | Easy |
