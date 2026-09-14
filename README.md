@@ -210,6 +210,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0486-predict-the-winner](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0486-predict-the-winner/) | Medium |
 | [0507-perfect-number](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0507-perfect-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0836-rectangle-overlap](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1406-stone-game-iii/) | Hard |
 | [1927-sum-game](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1927-sum-game/) | Medium |
@@ -631,6 +632,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0335-self-crossing](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0335-self-crossing/) | Hard |
+| [0836-rectangle-overlap](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0836-rectangle-overlap/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
