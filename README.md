@@ -213,6 +213,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0836-rectangle-overlap](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1406-stone-game-iii/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1927-sum-game](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2029-stone-game-ix/) | Medium |
@@ -253,6 +254,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0940-distinct-subsequences-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1301-number-of-paths-with-max-score](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1406-stone-game-iii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1406-stone-game-iii/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -263,6 +265,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -559,6 +562,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0458-poor-pigs](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0458-poor-pigs/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Bitmask
