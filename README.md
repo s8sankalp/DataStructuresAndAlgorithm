@@ -64,6 +64,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0500-keyboard-row](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0500-keyboard-row/) | Easy |
 | [0514-freedom-trail](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0514-freedom-trail/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1096-brace-expansion-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1927-sum-game](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1927-sum-game/) | Medium |
@@ -87,6 +88,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0394-decode-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0394-decode-string/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0456-132-pattern](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0456-132-pattern/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -377,6 +379,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0491-non-decreasing-subsequences](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0500-keyboard-row](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0500-keyboard-row/) | Easy |
 | [0554-brick-wall](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0554-brick-wall/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -470,6 +473,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0561-array-partition](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -500,6 +504,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0473-matchsticks-to-square](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0526-beautiful-arrangement/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
@@ -537,6 +542,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0514-freedom-trail](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0514-freedom-trail/) | Hard |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0529-minesweeper](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0529-minesweeper/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1096-brace-expansion-ii/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
