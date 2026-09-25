@@ -1,32 +1,26 @@
 class Solution {
     public int compress(char[] chars) {
-        int n = chars.length;
-        int write = 0;
-        int i = 0;
-
-        while (i < n) {
-            char current = chars[i];
-            int count = 0;
-
-            // Count consecutive occurrences
-            while (i < n && chars[i] == current) {
-                i++;
-                count++;
+        StringBuilder str=new StringBuilder();
+        int i=0,k=0;
+        while(i<chars.length)
+        {
+            char c=chars[i];
+            int j=i;
+            while(j<chars.length&&chars[j]==c)
+            {
+                j++;
             }
-
-            // Write character
-            chars[write++] = current;
-
-            // Write count if greater than 1
-            if (count > 1) {
-                String freq = String.valueOf(count);
-
-                for (char c : freq.toCharArray()) {
-                    chars[write++] = c;
+            chars[k++]=c;
+            if(j-i>1)
+            {
+                String s=String.valueOf(j-i);
+                for(char x:s.toCharArray())
+                {
+                    chars[k++]=x;
                 }
             }
+            i=j;
         }
-
-        return write;
+        return k;
     }
 }
