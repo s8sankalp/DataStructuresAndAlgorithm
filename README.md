@@ -178,6 +178,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [3525-find-x-value-of-array-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -236,6 +237,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [3524-find-x-value-of-array-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
