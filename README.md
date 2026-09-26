@@ -67,6 +67,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [1096-brace-expansion-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -159,6 +160,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -386,6 +388,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
