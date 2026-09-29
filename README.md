@@ -167,6 +167,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2029-stone-game-ix/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -274,6 +275,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [1406-stone-game-iii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1406-stone-game-iii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -582,6 +584,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0835-image-overlap](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0835-image-overlap/) | Medium |
 | [1260-shift-2d-grid](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -701,4 +704,5 @@ To compile and run any of the solutions, you need to have the Java Development K
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
