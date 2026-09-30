@@ -65,6 +65,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0514-freedom-trail](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0514-freedom-trail/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -91,6 +92,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0445-add-two-numbers-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0456-132-pattern](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0456-132-pattern/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -703,6 +705,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
