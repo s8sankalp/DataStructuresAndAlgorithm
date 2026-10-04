@@ -63,6 +63,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0482-license-key-formatting](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0482-license-key-formatting/) | Easy |
 | [0500-keyboard-row](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0500-keyboard-row/) | Easy |
 | [0514-freedom-trail](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0514-freedom-trail/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -91,6 +92,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0394-decode-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0394-decode-string/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0456-132-pattern](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0456-132-pattern/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -102,6 +104,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0420-strong-password-checker](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0420-strong-password-checker/) | Hard |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0561-array-partition](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0561-array-partition/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -271,6 +274,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0486-predict-the-winner](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0486-predict-the-winner/) | Medium |
 | [0514-freedom-trail](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0514-freedom-trail/) | Hard |
 | [0526-beautiful-arrangement](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0526-beautiful-arrangement/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0877-stone-game](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0877-stone-game/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1301-number-of-paths-with-max-score](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -705,6 +709,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
