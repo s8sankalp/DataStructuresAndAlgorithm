@@ -65,6 +65,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0514-freedom-trail](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0514-freedom-trail/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -95,6 +96,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0456-132-pattern](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0456-132-pattern/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -107,6 +109,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0561-array-partition](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0561-array-partition/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -713,6 +716,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
