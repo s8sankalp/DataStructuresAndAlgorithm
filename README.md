@@ -64,6 +64,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0500-keyboard-row](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0500-keyboard-row/) | Easy |
 | [0514-freedom-trail](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0514-freedom-trail/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0856-score-of-parentheses/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -93,6 +94,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0445-add-two-numbers-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0456-132-pattern](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0456-132-pattern/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0856-score-of-parentheses/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -710,6 +712,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0856-score-of-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
