@@ -45,6 +45,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0273-integer-to-english-words](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0273-integer-to-english-words/) | Hard |
 | [0290-word-pattern](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0290-word-pattern/) | Easy |
 | [0299-bulls-and-cows](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0299-bulls-and-cows/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0383-ransom-note/) | Easy |
@@ -518,6 +519,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0357-count-numbers-with-unique-digits](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0473-matchsticks-to-square](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0491-non-decreasing-subsequences/) | Medium |
@@ -552,6 +554,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0365-water-and-jug-problem](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0407-trapping-rain-water-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0407-trapping-rain-water-ii/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
