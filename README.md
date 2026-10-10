@@ -122,6 +122,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [1927-sum-game](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2029-stone-game-ix/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -186,6 +187,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [2029-stone-game-ix](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2029-stone-game-ix/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -251,6 +253,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [1927-sum-game](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2029-stone-game-ix/) | Medium |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
