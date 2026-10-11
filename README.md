@@ -188,6 +188,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
+| [2778-sum-of-squares-of-special-elements](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -619,6 +620,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1291-sequential-digits/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
