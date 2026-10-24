@@ -78,6 +78,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2409-count-days-spent-together](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -262,6 +263,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [1979-find-greatest-common-divisor-of-array](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2029-stone-game-ix/) | Medium |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
+| [2409-count-days-spent-together](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2409-count-days-spent-together/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
