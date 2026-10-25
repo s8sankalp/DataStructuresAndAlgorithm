@@ -5,7 +5,7 @@ class Solution {
 
         boolean[][] vis = new boolean[m][n];
 
-        // Remove boundary-connected islands
+       
         for (int i = 0; i < m; i++) {
             if (grid[i][0] == 0)
                 dfs(grid, vis, i, 0);
