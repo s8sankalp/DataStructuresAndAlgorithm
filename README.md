@@ -84,6 +84,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -205,6 +206,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3331-find-subtree-sizes-after-changes](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -444,6 +446,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3331-find-subtree-sizes-after-changes](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -592,6 +595,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -678,6 +682,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [0515-find-largest-value-in-each-tree-row](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0563-binary-tree-tilt](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/0563-binary-tree-tilt/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
