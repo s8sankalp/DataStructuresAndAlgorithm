@@ -78,6 +78,7 @@ To compile and run any of the solutions, you need to have the Java Development K
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2409-count-days-spent-together](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/s8sankalp/DataStructuresAndAlgorithm/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
